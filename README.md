@@ -11,18 +11,17 @@ Geliştirdiğim bu proje, metinleri md5 formatında şifreleyebilir ve her bir m
 
 ### Client
 
-`
-cd client <br/>
-npm i <br/>
-npm run serve <br/>
-`
+
+` cd client `
+` npm i ` 
+` npm run serve `
+
 ### Server
 
-`
-cd server <br/>
-npm i <br/>
-npm start <br/>
-`
+` cd server `
+` npm i `
+` npm start `
+
 #### NOT - NOTE
 Don't forget to change the link url in the env file
 
